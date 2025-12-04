@@ -1,0 +1,5 @@
+{
+  "name": "Web Sentinel",
+  "description": "A mission-critical cybersecurity dashboard for analyzing HTTP traffic, visualizing threats, and detecting breaches with a high-contrast SOC aesthetic.",
+  "requestFramePermissions": []
+}
